@@ -1,0 +1,9 @@
+planet,distance_from_sun_au,radius_km,gravity_m_s2,orbital_period_days
+Mercury,0.39,2439,3.7,88
+Venus,0.72,6052,8.9,225
+Earth,1.00,6371,9.8,365
+Mars,1.52,3390,3.7,687
+Jupiter,5.20,69911,24.8,4333
+Saturn,9.58,58232,10.4,10759
+Uranus,19.20,25362,8.7,30687
+Neptune,30.05,24622,11.0,60190
